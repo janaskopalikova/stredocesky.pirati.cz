@@ -21,7 +21,7 @@
 
 Obrázky pro články by měly být zmenšené do 800px, s jpeg kvalitou 95% a velikostí souboru do 300KB.
 
-Všechny články jdou přes Jirku Snížka, který ve spolupráci s PKD a mediálním odborem kraje posuzuje, zda patří na krajský web.
+Všechny články jdou přes Jirku Snížka, který ve spolupráci s PKS a mediálním odborem kraje posuzuje, zda patří na krajský web.
 
 # Co má nebo musí mít osobní profilová stránka
 
